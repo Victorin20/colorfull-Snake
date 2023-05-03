@@ -1,0 +1,4 @@
+﻿  Snake.cpp
+C:\Users\Moldovan\source\repos\Snake\Snake\Snake.cpp(7,32): warning C4081: attendu 'newline' ; rencontré ';'
+C:\Users\Moldovan\source\repos\Snake\Snake\Snake.cpp(8,32): warning C4081: attendu 'newline' ; rencontré ';'
+  Snake.vcxproj -> C:\Users\Moldovan\source\repos\Snake\Debug\Snake.exe
